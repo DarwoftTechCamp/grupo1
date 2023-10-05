@@ -1,0 +1,11 @@
+Model Information:
+* title:	Leña
+* source:	https://sketchfab.com/3d-models/lena-f9e0672a14d843738bd97bd11a5edfcc
+* author:	TechcampUCC (https://sketchfab.com/TechcampUCC)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Leña" (https://sketchfab.com/3d-models/lena-f9e0672a14d843738bd97bd11a5edfcc) by TechcampUCC (https://sketchfab.com/TechcampUCC) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
